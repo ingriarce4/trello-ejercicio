@@ -1,8 +1,7 @@
-// hacemos una funcion
 (function(){
 	
 	var agregarForma = document.getElementById("agregarForma");
-	var button = document.getElementById("button");
+	var button = document.getElementById("button2");
 	var input = document.getElementById("input");
 	var nuevoForm = document.getElementById("nuevoForma");
 	var contenedor = document.getElementById("contenedor");
