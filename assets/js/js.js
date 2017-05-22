@@ -35,7 +35,7 @@
 			contenedorTarjetas.addEventListener("drop", soltarTrello);
 			contenedorTarjetas.addEventListener("dragend", terminaArrastrarTrello); 
 
-			hideElement(nuevoForma,agregarForma);
+			hideElementt(nuevoForma,agregarForma);
 
 			crearElementos("div", "nuevaLista", input.value, contenedorTarjeta);
 			crearElementos("div", "agregar", "Añadir una tarjeta", contenedorTarjeta);
